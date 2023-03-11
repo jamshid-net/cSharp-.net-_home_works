@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BSX5iwgLYek4GhJbZfUlDnhqOD2Cj/D+iL07tm8iarRY3mwXVK9A0Jy6nIrTir/jAtB0Qxi68BTZRM4pTX94A==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\LibraryOfBook\\LibraryOfBook\\LibraryOfBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\ForGitHub\XmlLesson\XmlLesson\bin\Debug\net7.0\XmlLesson.exe
+D:\ForGitHub\XmlLesson\XmlLesson\bin\Debug\net7.0\XmlLesson.deps.json
+D:\ForGitHub\XmlLesson\XmlLesson\bin\Debug\net7.0\XmlLesson.runtimeconfig.json
+D:\ForGitHub\XmlLesson\XmlLesson\bin\Debug\net7.0\XmlLesson.dll
+D:\ForGitHub\XmlLesson\XmlLesson\bin\Debug\net7.0\XmlLesson.pdb
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.csproj.AssemblyReference.cache
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.AssemblyInfoInputs.cache
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.AssemblyInfo.cs
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.csproj.CoreCompileInputs.cache
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.dll
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\refint\XmlLesson.dll
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.pdb
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\XmlLesson.genruntimeconfig.cache
+D:\ForGitHub\XmlLesson\XmlLesson\obj\Debug\net7.0\ref\XmlLesson.dll

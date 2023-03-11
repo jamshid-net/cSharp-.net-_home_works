@@ -1,0 +1,15 @@
+D:\ForGitHub\Delegate\Delegate\bin\Debug\net7.0\Delegate.exe
+D:\ForGitHub\Delegate\Delegate\bin\Debug\net7.0\Delegate.deps.json
+D:\ForGitHub\Delegate\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+D:\ForGitHub\Delegate\Delegate\bin\Debug\net7.0\Delegate.dll
+D:\ForGitHub\Delegate\Delegate\bin\Debug\net7.0\Delegate.pdb
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.dll
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.pdb
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+D:\ForGitHub\Delegate\Delegate\obj\Debug\net7.0\ref\Delegate.dll

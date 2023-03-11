@@ -1,0 +1,462 @@
+[
+  {
+    "Title": "The Hidden Garden",
+    "Id": 1,
+    "Author": "Jeanie Kunze"
+  },
+  {
+    "Title": "The Lost Labyrinth",
+    "Id": 2,
+    "Author": "Lenora Rippin"
+  },
+  {
+    "Title": "The Crimson Crown",
+    "Id": 3,
+    "Author": "Myah Collier"
+  },
+  {
+    "Title": "The Midnight Circus",
+    "Id": 4,
+    "Author": "Garnet Wisozk"
+  },
+  {
+    "Title": "The Enchanted Forest",
+    "Id": 5,
+    "Author": "Justen Upton"
+  },
+  {
+    "Title": "The Raven's Prophecy",
+    "Id": 6,
+    "Author": "Fidel Murray"
+  },
+  {
+    "Title": "The Forgotten Kingdom",
+    "Id": 7,
+    "Author": "Skyla Schmitt"
+  },
+  {
+    "Title": "The Cursed Ruby",
+    "Id": 8,
+    "Author": "Tyree Denesik"
+  },
+  {
+    "Title": "The Ghostly Bride",
+    "Id": 9,
+    "Author": "Cloyd Hansen"
+  },
+  {
+    "Title": "The Sapphire Storm",
+    "Id": 10,
+    "Author": "Brennon Hamill"
+  },
+  {
+    "Title": "The Secret Society",
+    "Id": 11,
+    "Author": "Winona Weber"
+  },
+  {
+    "Title": "The Emerald Isle",
+    "Id": 12,
+    "Author": "Geoffrey Pouros"
+  },
+  {
+    "Title": "The Witch's Curse",
+    "Id": 13,
+    "Author": "Candelario Hamill"
+  },
+  {
+    "Title": "The Dark Tower",
+    "Id": 14,
+    "Author": "Rogers Ullrich"
+  },
+  {
+    "Title": "The Shadow Queen",
+    "Id": 15,
+    "Author": "Cayla Pfannerstill"
+  },
+  {
+    "Title": "The Mystic Oracle",
+    "Id": 16,
+    "Author": "Jakob McGlynn"
+  },
+  {
+    "Title": "The Sunken City",
+    "Id": 17,
+    "Author": "Zane Larson"
+  },
+  {
+    "Title": "The Pirate's Treasure",
+    "Id": 18,
+    "Author": "Emmy Harvey"
+  },
+  {
+    "Title": "The Dragon's Lair",
+    "Id": 19,
+    "Author": "Casandra Schoen"
+  },
+  {
+    "Title": "The Time Traveler's Wife",
+    "Id": 20,
+    "Author": "Kendall King"
+  },
+  {
+    "Title": "The Hunger Games",
+    "Id": 21,
+    "Author": "Emma Muller"
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Id": 22,
+    "Author": "Else Ritchie"
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Id": 23,
+    "Author": "Favian Rolfson"
+  },
+  {
+    "Title": "1984",
+    "Id": 24,
+    "Author": "Ivah Aufderhar"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Id": 25,
+    "Author": "Elaina O'Connell"
+  },
+  {
+    "Title": "One Hundred Years of Solitude",
+    "Id": 26,
+    "Author": "Elta Lebsack"
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Id": 27,
+    "Author": "Harley Boyle"
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Id": 28,
+    "Author": "Arno Runolfsdottir"
+  },
+  {
+    "Title": "The Hobbit",
+    "Id": 29,
+    "Author": "Malvina Toy"
+  },
+  {
+    "Title": "The Chronicles of Narnia",
+    "Id": 30,
+    "Author": "Isobel Mueller"
+  },
+  {
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Id": 31,
+    "Author": "Deja Reichert"
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Id": 32,
+    "Author": "Tia Kuvalis"
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Id": 33,
+    "Author": "Carmine Armstrong"
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Id": 34,
+    "Author": "Donna Wolff"
+  },
+  {
+    "Title": "Harry Potter and the Order of Phoenix",
+    "Id": 35,
+    "Author": "Abigale Rippin"
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Id": 36,
+    "Author": "Lamont Blanda"
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows",
+    "Id": 37,
+    "Author": "Grayson Murazik"
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Id": 38,
+    "Author": "Rozella Adams"
+  },
+  {
+    "Title": "Angels and Demons",
+    "Id": 39,
+    "Author": "Colleen Erdman"
+  },
+  {
+    "Title": "Inferno",
+    "Id": 40,
+    "Author": "Lauriane Parisian"
+  },
+  {
+    "Title": "The Lost Symbol",
+    "Id": 41,
+    "Author": "Jaren Boyer"
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Id": 42,
+    "Author": "Nathan Torp"
+  },
+  {
+    "Title": "The Girl Who Played with Fire",
+    "Id": 43,
+    "Author": "Hector Becker"
+  },
+  {
+    "Title": "The Girl Who Kicked the Hornet's Nest",
+    "Id": 44,
+    "Author": "Rickie Runolfsson"
+  },
+  {
+    "Title": "Gone Girl",
+    "Id": 45,
+    "Author": "Enrico Ernser"
+  },
+  {
+    "Title": "The Girl on the Train",
+    "Id": 46,
+    "Author": "Wyatt Boyle"
+  },
+  {
+    "Title": "The Silent Patient",
+    "Id": 47,
+    "Author": "Guiseppe McLaughlin"
+  },
+  {
+    "Title": "The Hunger Games: Catching Fire",
+    "Id": 48,
+    "Author": "Jammie Stanton"
+  },
+  {
+    "Title": "The Hunger Games: Mockingjay",
+    "Id": 49,
+    "Author": "Monserrat Murazik"
+  },
+  {
+    "Title": "The Maze Runner",
+    "Id": 50,
+    "Author": "Bill Lakin"
+  },
+  {
+    "Title": "The Scorch Trials",
+    "Id": 51,
+    "Author": "Cicero Nader"
+  },
+  {
+    "Title": "The Death Cure",
+    "Id": 52,
+    "Author": "Jadyn Langworth"
+  },
+  {
+    "Title": "The Fault in Our Stars",
+    "Id": 53,
+    "Author": "Anahi Willms"
+  },
+  {
+    "Title": "Looking for Alaska",
+    "Id": 54,
+    "Author": "Elody Treutel"
+  },
+  {
+    "Title": "Paper Towns",
+    "Id": 55,
+    "Author": "Silas MacGyver"
+  },
+  {
+    "Title": "An Abundance of Katherines",
+    "Id": 56,
+    "Author": "Patsy Dooley"
+  },
+  {
+    "Title": "The Alchemist",
+    "Id": 57,
+    "Author": "Newton Rohan"
+  },
+  {
+    "Title": "Brida",
+    "Id": 58,
+    "Author": "Aidan Langworth"
+  },
+  {
+    "Title": "Veronika Decides to Die",
+    "Id": 59,
+    "Author": "Scottie Leffler"
+  },
+  {
+    "Title": "The Devil Wears Prada",
+    "Id": 60,
+    "Author": "Letha Bartell"
+  },
+  {
+    "Title": "The Nanny Diaries",
+    "Id": 61,
+    "Author": "Olen Emard"
+  },
+  {
+    "Title": "Confessions of a Shopaholic",
+    "Id": 62,
+    "Author": "Cory Beier"
+  },
+  {
+    "Title": "The Help",
+    "Id": 63,
+    "Author": "Junior Doyle"
+  },
+  {
+    "Title": "The Immortal Life of Henrietta Lacks",
+    "Id": 64,
+    "Author": "Hayden Wilderman"
+  },
+  {
+    "Title": "The Kite Runner",
+    "Id": 65,
+    "Author": "Merl O'Reilly"
+  },
+  {
+    "Title": "A Thousand Splendid Suns",
+    "Id": 66,
+    "Author": "Bennett Macejkovic"
+  },
+  {
+    "Title": "And the Mountains Echoed",
+    "Id": 67,
+    "Author": "Dejuan Schamberger"
+  },
+  {
+    "Title": "The Book Thief",
+    "Id": 68,
+    "Author": "Pierre Yost"
+  },
+  {
+    "Title": "Life of Pi",
+    "Id": 69,
+    "Author": "June Frami"
+  },
+  {
+    "Title": "The Road",
+    "Id": 70,
+    "Author": "Jacklyn Reynolds"
+  },
+  {
+    "Title": "The Catcher Was a Spy",
+    "Id": 71,
+    "Author": "Boyd Pacocha"
+  },
+  {
+    "Title": "The Shadow of the Wind",
+    "Id": 72,
+    "Author": "Melvin Moore"
+  },
+  {
+    "Title": "The Name of the Wind",
+    "Id": 73,
+    "Author": "Anne Jakubowski"
+  },
+  {
+    "Title": "The Wise Man's Fear",
+    "Id": 74,
+    "Author": "Hildegard Dooley"
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Id": 75,
+    "Author": "Luna Kirlin"
+  },
+  {
+    "Title": "A Clash of Kings",
+    "Id": 76,
+    "Author": "Archibald Bins"
+  },
+  {
+    "Title": "A Storm of Swords",
+    "Id": 77,
+    "Author": "Tara Casper"
+  },
+  {
+    "Title": "A Feast for Crows",
+    "Id": 78,
+    "Author": "Wilburn Brown"
+  },
+  {
+    "Title": "A Dance with Dragons",
+    "Id": 79,
+    "Author": "Rachael Goodwin"
+  },
+  {
+    "Title": "The Winds of Winter",
+    "Id": 80,
+    "Author": "Karianne Beatty"
+  },
+  {
+    "Title": "A Dream of Spring",
+    "Id": 81,
+    "Author": "Christian Carroll"
+  },
+  {
+    "Title": "The Stand",
+    "Id": 82,
+    "Author": "Alec Okuneva"
+  },
+  {
+    "Title": "It",
+    "Id": 83,
+    "Author": "Casandra Cartwright"
+  },
+  {
+    "Title": "The Shining",
+    "Id": 84,
+    "Author": "Meggie Bahringer"
+  },
+  {
+    "Title": "Pet Sematary",
+    "Id": 85,
+    "Author": "Waylon Ledner"
+  },
+  {
+    "Title": "Salem's Lot",
+    "Id": 86,
+    "Author": "Cristina Mante"
+  },
+  {
+    "Title": "Misery",
+    "Id": 87,
+    "Author": "Nayeli Walter"
+  },
+  {
+    "Title": "Carrie",
+    "Id": 88,
+    "Author": "Adam Hilll"
+  },
+  {
+    "Title": "Doctor Sleep",
+    "Id": 89,
+    "Author": "Nicholas Carroll"
+  },
+  {
+    "Title": "The Tommyknockers",
+    "Id": 90,
+    "Author": "Darwin Monahan"
+  },
+  {
+    "Title": "The Dark Half",
+    "Id": 91,
+    "Author": "Caterina Beatty"
+  },
+  {
+    "Title": "Needful Things",
+    "Id": 92,
+    "Author": "Florida Hyatt"
+  }
+]

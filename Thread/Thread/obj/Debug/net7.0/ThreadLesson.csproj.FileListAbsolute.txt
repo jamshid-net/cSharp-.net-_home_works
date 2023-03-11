@@ -1,0 +1,17 @@
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\ThreadLesson.exe
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\ThreadLesson.deps.json
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\ThreadLesson.runtimeconfig.json
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\ThreadLesson.dll
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\ThreadLesson.pdb
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.csproj.AssemblyReference.cache
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.AssemblyInfoInputs.cache
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.AssemblyInfo.cs
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.csproj.CoreCompileInputs.cache
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.dll
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\refint\ThreadLesson.dll
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.pdb
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.genruntimeconfig.cache
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ref\ThreadLesson.dll
+D:\ForGitHub\Thread\Thread\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ForGitHub\Thread\Thread\obj\Debug\net7.0\ThreadLesson.csproj.CopyComplete

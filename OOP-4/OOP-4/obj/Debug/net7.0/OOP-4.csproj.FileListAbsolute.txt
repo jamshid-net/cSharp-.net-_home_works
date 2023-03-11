@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\OOP-4\OOP-4\bin\Debug\net7.0\OOP-4.exe
+C:\Users\DELL\source\repos\OOP-4\OOP-4\bin\Debug\net7.0\OOP-4.deps.json
+C:\Users\DELL\source\repos\OOP-4\OOP-4\bin\Debug\net7.0\OOP-4.runtimeconfig.json
+C:\Users\DELL\source\repos\OOP-4\OOP-4\bin\Debug\net7.0\OOP-4.dll
+C:\Users\DELL\source\repos\OOP-4\OOP-4\bin\Debug\net7.0\OOP-4.pdb
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.AssemblyInfo.cs
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.dll
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\refint\OOP-4.dll
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.pdb
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\OOP-4.genruntimeconfig.cache
+C:\Users\DELL\source\repos\OOP-4\OOP-4\obj\Debug\net7.0\ref\OOP-4.dll

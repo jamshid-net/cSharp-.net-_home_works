@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-3-dars", "OOP-3-dars\OOP-3-dars.csproj", "{3758D414-AE84-482A-9844-E5C41CA77FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3758D414-AE84-482A-9844-E5C41CA77FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3758D414-AE84-482A-9844-E5C41CA77FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3758D414-AE84-482A-9844-E5C41CA77FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3758D414-AE84-482A-9844-E5C41CA77FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2EF68DC-C652-41B1-B996-5A4C0A62C851}
+	EndGlobalSection
+EndGlobal

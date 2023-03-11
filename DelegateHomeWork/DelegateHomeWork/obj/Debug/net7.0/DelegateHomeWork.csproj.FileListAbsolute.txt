@@ -1,0 +1,15 @@
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\bin\Debug\net7.0\DelegateHomeWork.exe
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\bin\Debug\net7.0\DelegateHomeWork.deps.json
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\bin\Debug\net7.0\DelegateHomeWork.runtimeconfig.json
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\bin\Debug\net7.0\DelegateHomeWork.dll
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\bin\Debug\net7.0\DelegateHomeWork.pdb
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.csproj.AssemblyReference.cache
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.AssemblyInfoInputs.cache
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.AssemblyInfo.cs
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.csproj.CoreCompileInputs.cache
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.dll
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\refint\DelegateHomeWork.dll
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.pdb
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\DelegateHomeWork.genruntimeconfig.cache
+D:\ForGitHub\DelegateHomeWork\DelegateHomeWork\obj\Debug\net7.0\ref\DelegateHomeWork.dll

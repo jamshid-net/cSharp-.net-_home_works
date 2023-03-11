@@ -1,0 +1,196 @@
+[
+  {
+    "FullName": "Alisa Prosacco",
+    "Id": 1,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      }
+    ]
+  },
+  {
+    "FullName": "Cassidy Borer",
+    "Id": 2,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      }
+    ]
+  },
+  {
+    "FullName": "Leta Miller",
+    "Id": 4,
+    "TakenBooks": [
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      }
+    ]
+  },
+  {
+    "FullName": "Ludwig Robel",
+    "Id": 5,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      },
+      {
+        "Title": "The Crimson Crown",
+        "Id": 3,
+        "Author": "Myah Collier"
+      },
+      {
+        "Title": "The Midnight Circus",
+        "Id": 4,
+        "Author": "Garnet Wisozk"
+      }
+    ]
+  },
+  {
+    "FullName": "Nadia Wyman",
+    "Id": 6,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      }
+    ]
+  },
+  {
+    "FullName": "Alfonzo Pollich",
+    "Id": 7,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      },
+      {
+        "Title": "The Crimson Crown",
+        "Id": 3,
+        "Author": "Myah Collier"
+      },
+      {
+        "Title": "The Midnight Circus",
+        "Id": 4,
+        "Author": "Garnet Wisozk"
+      },
+      {
+        "Title": "The Enchanted Forest",
+        "Id": 5,
+        "Author": "Justen Upton"
+      }
+    ]
+  },
+  {
+    "FullName": "Herbert Konopelski",
+    "Id": 8,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      },
+      {
+        "Title": "The Crimson Crown",
+        "Id": 3,
+        "Author": "Myah Collier"
+      },
+      {
+        "Title": "The Midnight Circus",
+        "Id": 4,
+        "Author": "Garnet Wisozk"
+      },
+      {
+        "Title": "The Enchanted Forest",
+        "Id": 5,
+        "Author": "Justen Upton"
+      }
+    ]
+  },
+  {
+    "FullName": "Dock Marquardt",
+    "Id": 9,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      },
+      {
+        "Title": "The Crimson Crown",
+        "Id": 3,
+        "Author": "Myah Collier"
+      },
+      {
+        "Title": "The Midnight Circus",
+        "Id": 4,
+        "Author": "Garnet Wisozk"
+      }
+    ]
+  },
+  {
+    "FullName": "Megane Stamm",
+    "Id": 10,
+    "TakenBooks": [
+      {
+        "Title": "The Hidden Garden",
+        "Id": 1,
+        "Author": "Jeanie Kunze"
+      },
+      {
+        "Title": "The Lost Labyrinth",
+        "Id": 2,
+        "Author": "Lenora Rippin"
+      },
+      {
+        "Title": "The Crimson Crown",
+        "Id": 3,
+        "Author": "Myah Collier"
+      },
+      {
+        "Title": "The Midnight Circus",
+        "Id": 4,
+        "Author": "Garnet Wisozk"
+      },
+      {
+        "Title": "The Enchanted Forest",
+        "Id": 5,
+        "Author": "Justen Upton"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\JsonLessonHomeWork.exe
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\JsonLessonHomeWork.deps.json
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\JsonLessonHomeWork.runtimeconfig.json
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\JsonLessonHomeWork.dll
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\JsonLessonHomeWork.pdb
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.csproj.AssemblyReference.cache
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.AssemblyInfoInputs.cache
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.AssemblyInfo.cs
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.csproj.CoreCompileInputs.cache
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.csproj.CopyComplete
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.dll
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\refint\JsonLessonHomeWork.dll
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.pdb
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\JsonLessonHomeWork.genruntimeconfig.cache
+D:\ForGitHub\JsonLessonHomeWork\JsonLessonHomeWork\obj\Debug\net7.0\ref\JsonLessonHomeWork.dll

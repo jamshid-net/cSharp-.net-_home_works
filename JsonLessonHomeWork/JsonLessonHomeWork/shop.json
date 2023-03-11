@@ -1,0 +1,109 @@
+{
+  "client": "Thunder Client",
+  "collectionName": "Shop",
+  "dateExported": "2021-11-06T04:06:16.874Z",
+  "version": "1.1",
+  "folders": [
+    {
+      "containerId": "",
+      "sortNum": 10000,
+      "name": "Api",
+      "_id": "4836ed06-23cf-490c-936c-5186294095f9",
+      "created": "2021-11-06T03:55:57.641Z"
+    }
+  ],
+  "requests": [
+    {
+      "containerId": "4836ed06-23cf-490c-936c-5186294095f9",
+      "sortNum": 20000,
+      "headers": [
+        {
+          "name": "Accept",
+          "value": "*/*"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Thunder Client (https://www.thunderclient.io)"
+        }
+      ],
+      "colId": "1d477d12-4c17-4502-9755-351b7c954ef3",
+      "name": "Get Offers",
+      "url": "http://osonsavdo.sd-group.uz/api/get_offers",
+      "method": "GET",
+      "modified": "2021-11-06T04:05:11.994Z",
+      "created": "2021-11-06T03:56:06.703Z",
+      "_id": "436e5860-1c92-4429-b78c-39d0328a6741",
+      "params": [],
+      "tests": []
+    },
+    {
+      "containerId": "4836ed06-23cf-490c-936c-5186294095f9",
+      "sortNum": 30000,
+      "headers": [
+        {
+          "name": "Accept",
+          "value": "*/*"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Thunder Client (https://www.thunderclient.io)"
+        }
+      ],
+      "colId": "1d477d12-4c17-4502-9755-351b7c954ef3",
+      "name": "Get Categories",
+      "url": "http://osonsavdo.sd-group.uz/api/get_categories",
+      "method": "GET",
+      "modified": "2021-11-06T04:05:28.985Z",
+      "created": "2021-11-06T03:56:35.736Z",
+      "_id": "56d0c3ea-8fbf-4549-bcdb-4b76f18ccb29",
+      "params": [],
+      "tests": []
+    },
+    {
+      "containerId": "4836ed06-23cf-490c-936c-5186294095f9",
+      "sortNum": 40000,
+      "headers": [
+        {
+          "name": "Accept",
+          "value": "*/*"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Thunder Client (https://www.thunderclient.io)"
+        }
+      ],
+      "colId": "1d477d12-4c17-4502-9755-351b7c954ef3",
+      "name": "Get Top Products",
+      "url": "http://osonsavdo.sd-group.uz/api/get_top_products",
+      "method": "GET",
+      "modified": "2021-11-06T03:57:39.070Z",
+      "created": "2021-11-06T03:57:19.547Z",
+      "_id": "25ea89dc-dc4c-43f6-8622-32078a3ae988",
+      "params": [],
+      "tests": []
+    },
+    {
+      "containerId": "4836ed06-23cf-490c-936c-5186294095f9",
+      "sortNum": 60000,
+      "headers": [
+        {
+          "name": "Accept",
+          "value": "*/*"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Thunder Client (https://www.thunderclient.io)"
+        }
+      ],
+      "colId": "1d477d12-4c17-4502-9755-351b7c954ef3",
+      "name": "Get Category Id Products",
+      "url": "http://osonsavdo.sd-group.uz/api/get_products/10",
+      "method": "GET",
+      "modified": "2021-11-06T04:05:01.196Z",
+      "created": "2021-11-06T04:03:24.093Z",
+      "_id": "f2c58a2d-98dc-4bfa-82ce-c438c5ee3062",
+      "params": [],
+      "tests": []
+    }
+  ]
+}

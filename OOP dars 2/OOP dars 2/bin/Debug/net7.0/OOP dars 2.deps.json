@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OOP dars 2/1.0.0": {
+        "runtime": {
+          "OOP dars 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP dars 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

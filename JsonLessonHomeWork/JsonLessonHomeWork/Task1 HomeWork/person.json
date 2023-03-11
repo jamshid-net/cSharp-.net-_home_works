@@ -1,0 +1,12 @@
+{
+  "EmployeList": [
+    {
+      "EmployeName": "Mike",
+      "DepartamentName": "Microsoft"
+    },
+    {
+      "EmployeName": "Bob",
+      "DepartamentName": "Amazon"
+    }
+  ]
+}

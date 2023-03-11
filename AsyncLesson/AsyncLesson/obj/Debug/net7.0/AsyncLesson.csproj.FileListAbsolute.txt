@@ -1,0 +1,17 @@
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\AsyncLesson.exe
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\AsyncLesson.deps.json
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\AsyncLesson.runtimeconfig.json
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\AsyncLesson.dll
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\AsyncLesson.pdb
+D:\ForGitHub\AsyncLesson\AsyncLesson\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.csproj.AssemblyReference.cache
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.AssemblyInfoInputs.cache
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.AssemblyInfo.cs
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.csproj.CoreCompileInputs.cache
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.csproj.CopyComplete
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.dll
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\refint\AsyncLesson.dll
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.pdb
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\AsyncLesson.genruntimeconfig.cache
+D:\ForGitHub\AsyncLesson\AsyncLesson\obj\Debug\net7.0\ref\AsyncLesson.dll

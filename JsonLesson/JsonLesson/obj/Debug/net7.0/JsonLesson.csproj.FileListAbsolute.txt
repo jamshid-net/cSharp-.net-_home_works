@@ -1,0 +1,17 @@
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\JsonLesson.exe
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\JsonLesson.deps.json
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\JsonLesson.runtimeconfig.json
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\JsonLesson.dll
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\JsonLesson.pdb
+D:\ForGitHub\JsonLesson\JsonLesson\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.csproj.AssemblyReference.cache
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.AssemblyInfoInputs.cache
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.AssemblyInfo.cs
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.csproj.CoreCompileInputs.cache
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.csproj.CopyComplete
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.dll
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\refint\JsonLesson.dll
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.pdb
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\JsonLesson.genruntimeconfig.cache
+D:\ForGitHub\JsonLesson\JsonLesson\obj\Debug\net7.0\ref\JsonLesson.dll

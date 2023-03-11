@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWJ06YxjEeAYL/iGZVWHOi6SFatkJ2oIGcu0z403R0bnxIgl+WrqF1BpCXTSoMDSvfbP0rJJME1dwmKJDMCvPQ==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\JsonLesson\\JsonLesson\\JsonLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

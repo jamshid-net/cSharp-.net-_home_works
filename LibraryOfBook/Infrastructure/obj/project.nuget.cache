@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ii8NsEezK6Joy6FVF8y2M/lgYBMzLrlMHGMDSIydprEQnE1zxFSsFuGOztpRPo9OTup9n3hoo/gzK/Aj17OpHg==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\LibraryOfBook\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

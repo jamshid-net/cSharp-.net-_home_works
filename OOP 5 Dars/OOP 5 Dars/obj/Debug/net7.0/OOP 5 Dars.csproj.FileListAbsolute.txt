@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\bin\Debug\net7.0\OOP 5 Dars.exe
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\bin\Debug\net7.0\OOP 5 Dars.deps.json
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\bin\Debug\net7.0\OOP 5 Dars.runtimeconfig.json
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\bin\Debug\net7.0\OOP 5 Dars.dll
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\bin\Debug\net7.0\OOP 5 Dars.pdb
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.AssemblyInfo.cs
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.dll
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\refint\OOP 5 Dars.dll
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.pdb
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\OOP 5 Dars.genruntimeconfig.cache
+C:\Users\DELL\source\repos\OOP 5 Dars\OOP 5 Dars\obj\Debug\net7.0\ref\OOP 5 Dars.dll

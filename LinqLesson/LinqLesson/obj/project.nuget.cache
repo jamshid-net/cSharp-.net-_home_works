@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LNIfdlSc97IcV6Uj56JBfGl5NoLPbYE7p8QdTeaSRZbhURy6/1x5P9H8wb1UoeRN2iD2v+0i/iMSXlVIbfT7Q==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\LinqLesson\\LinqLesson\\LinqLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

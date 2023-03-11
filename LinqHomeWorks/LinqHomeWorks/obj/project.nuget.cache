@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lleXt7MMs9g/HCGDjLb0/sTQ0k1uefAfuQ008Ow9BgcuGKIXvkQRDfpNvCw+6QF17WPP95eyOvJVdQ0dUGRDvQ==",
+  "success": true,
+  "projectFilePath": "D:\\ForGitHub\\LinqHomeWorks\\LinqHomeWorks\\LinqHomeWorks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

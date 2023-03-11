@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMyTodoClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>1</id>
+    <title>new title </title>
+    <completed>false</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>2</id>
+    <title>new title</title>
+    <completed>true</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>3</id>
+    <title>Mynew title</title>
+    <completed>false</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>4</id>
+    <title>Test title to add</title>
+    <completed>true</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>5</id>
+    <title>fffffffffff</title>
+    <completed>false</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>6</id>
+    <title>My new title</title>
+    <completed>true</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>8</id>
+    <title>Titled added with semophoresync</title>
+    <completed>true</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>9</id>
+    <title>Title added for Lock Thread</title>
+    <completed>false</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>10</id>
+    <title>new edition</title>
+    <completed>false</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>11</id>
+    <title>Titlefor json is workinG?</title>
+    <completed>true</completed>
+  </MyTodoClass>
+  <MyTodoClass>
+    <userId>1</userId>
+    <id>12</id>
+    <title>ttttttttttttttttttt</title>
+    <completed>true</completed>
+  </MyTodoClass>
+</ArrayOfMyTodoClass>
