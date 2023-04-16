@@ -43,12 +43,9 @@ namespace AsyncLesson
             Console.WriteLine($"Task Status1: {task.Status}");
             Console.WriteLine($"Task Status2: {task.Status}");
             Thread.Sleep(5000);
-            // после задержки по времени отменяем выполнение задачи
+           
             cancelTokenSource.Cancel();
-            // ожидаем завершения задачи
-          
-
-            //  проверяем статус задачи
+           
             Console.WriteLine($"Task Status3: {task.Status}");
             cancelTokenSource.Dispose(); // освобождаем ресурсы
         }
