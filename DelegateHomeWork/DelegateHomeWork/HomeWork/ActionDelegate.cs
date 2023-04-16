@@ -49,7 +49,7 @@ namespace DelegateHomeWork.HomeWork
                 return satr;
             };
             
-            List<string> list = new List<string>() { "arra" ,"salom", "mashina", "azza", "1441", "2002","XAXAXAXAX"};
+            List<string> list = new List<string>() { "arra" ,"salom", "mashina", "azza"};
             action(list);
             
 
