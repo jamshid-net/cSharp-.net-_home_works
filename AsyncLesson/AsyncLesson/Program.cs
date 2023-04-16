@@ -7,11 +7,7 @@ namespace AsyncLesson
     {
         static void Main()
         {
-            //Console.WriteLine("Method main is started");
-            //Task task = new Task(()=> Print2());
-            //task.Start();
-            //Console.WriteLine("Method main is finished");
-            //string id = "AA1234567";
+          
             MyMethod();
 
 
