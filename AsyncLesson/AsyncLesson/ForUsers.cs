@@ -38,7 +38,8 @@ namespace AsyncLesson
         public Address address { get; set; }
         public string phone { get; set; }
         public string website { get; set; }
-        public Company company { get; set; }
+        public Company Company { get; set; }
+        
     }
 
 
