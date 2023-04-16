@@ -20,7 +20,7 @@ namespace JsonLesson
             Console.WriteLine("1.Add");
             Console.WriteLine("2.Remove");
             Console.WriteLine("3.Change");
-            Console.Write("Num: ");
+            Console.Write("Num:");
             int num = Convert.ToInt32(Console.ReadLine());  
 
             while(true)
