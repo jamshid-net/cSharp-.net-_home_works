@@ -7,7 +7,6 @@ namespace AsyncLesson
     {
         static void Main()
         {
-            
           
             MyMethod();
 
